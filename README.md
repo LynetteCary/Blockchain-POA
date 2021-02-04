@@ -66,7 +66,7 @@ Unlock the account and enable mining using the RPC flag by running the command: 
     <br>
 
     **Custom_Node (zbank) using Puppernet Network**
-    ![](Screenshots/custom_node_rev.png)
+    ![custom_node_rev](Screenshots/custom_node_rev.png)
 
 <br>
 * Using the Keystore file in MyCrypto, the private key is imported from the `znode1/keystore` directory into MyCrypto
@@ -75,5 +75,5 @@ Unlock the account and enable mining using the RPC flag by running the command: 
 
     **Transaction Sent** <br>
     TX Hash: 0xedcc4cf9f984a576ffc70bc97f59b6a774c67efa23876eaa1238fe26332ccf46
-    ![](Screenshots/TX_metadata.png)
+    ![TX_metadata](Screenshots/TX_metadata.png)
 
